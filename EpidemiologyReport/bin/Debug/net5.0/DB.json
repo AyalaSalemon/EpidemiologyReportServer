@@ -1,0 +1,55 @@
+[
+  
+  {
+    "Id": "324857648",
+    "Locations": [
+      {
+        "Id": 1,
+        "StartDate": "2022-10-01T00:00:00",
+        "EndDate": "2022-10-02T00:00:00",
+        "City": "jerusalem",
+        "location": "hotel"
+      },
+      {
+        "Id": 2,
+        "StartDate": "2023-10-01T00:00:00",
+        "EndDate": "2023-10-02T00:00:00",
+        "City": "TLV",
+        "location": "hotel"
+      },
+      {
+        "Id": 3,
+        "StartDate": "2022-07-05T11:21:54.978Z",
+        "EndDate": "2022-07-05T11:21:54.978Z",
+        "City": "Ashdod",
+        "location": "sea"
+      },
+      {
+        "Id": 0,
+        "StartDate": "2022-07-06T13:01:00Z",
+        "EndDate": "2022-07-06T13:01:00Z",
+        "City": "Jerusalem",
+        "location": "Geula"
+      }
+    ]
+  },
+  {
+    "Id": "59575027",
+    "Locations": [
+      {
+        "Id": 4,
+        "StartDate": "2021-10-01T00:00:00",
+        "EndDate": "2021-10-02T00:00:00",
+        "City": "jerusalem",
+        "location": "hotel1"
+      },
+      {
+        "Id": 9,
+        "StartDate": "2024-10-01T00:00:00",
+        "EndDate": "2023-10-02T00:00:00",
+        "City": "TLV",
+        "location": "hotel"
+      }
+    ]
+  }
+]
